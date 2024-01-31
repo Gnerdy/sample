@@ -1,2 +1,2 @@
 # sample
-Sample of Software Engineering
+Sample Studies of Software Engineering
